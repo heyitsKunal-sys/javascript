@@ -73,14 +73,8 @@ I have successfully built a strong foundation and applied JavaScript in real-wor
 
 ---
 
-## 🛠️ Projects Built
 
-* 🚗 Car Rental Website (Full-Stack)
-* 🛒 Refurbished Vehicle Marketplace
-* 📊 Dynamic Web Interfaces using DOM Manipulation
-* 🔐 Authentication Systems (OTP, Firebase)
 
----
 
 ## 📈 Skills Gained
 
