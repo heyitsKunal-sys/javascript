@@ -22,3 +22,9 @@ button.addEventListener("contextmenu" , ()=>{
 
 }) 
 // right click krne pe alert msg open ayega
+
+document.addEventListener("keydown" ,(e)=>{
+    console.log(e.key , e.keyCode) 
+})
+// ye key mtlv kuch bhi daba do keyboard pe jaise g press kiya to sath me uksi value aa jayegi key ki
+//  g :78 
