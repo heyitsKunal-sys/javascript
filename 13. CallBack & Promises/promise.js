@@ -47,3 +47,5 @@ p3.then((a)=>{
 // promise.js:38 (2) ['kunal', 'kunal 2']
 // dono promise jab resolve hue tan ye output ayi 
 // jab koi promise resolve n hue dono me se to koi value return n krega
+
+
