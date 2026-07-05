@@ -1,4 +1,9 @@
-const http = require('node:http');
+// const http = require('node:http');
+// const fs = require('node:fs');
+// jab jum type change krte h or type: module krte ha to hum require ka use nahi kr skte h isliye hum import ka use krte h
+import http from 'node:http';
+// we use require when type is commonjs and we use import when type is module
+
 const hostname = '127.0.0.1';
 const port = 3000;
 
