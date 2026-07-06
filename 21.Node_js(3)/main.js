@@ -29,3 +29,4 @@ fs.appendFile("kunal.txt", "kunalJames", (e,d)=>{
     console.log(d)
 })
 // kunal is a good boykunalJames in kunal.txt
+// callback hell se bachna h apne ko
