@@ -2,10 +2,13 @@
 
 
 const express = require('express');
+const blog = require('./routes/blog');
+
 
 
 const app = express();
 const port = 8080;
+app.use('./blog',blog)
 
 
 // Respond to GET request on the root route
@@ -17,7 +20,7 @@ app.get('/', (req, res) => {
 // Respond to POST request on the root route
 app.post('/', (req, res) => {
     console.log("hey post bhai")
-    res.send('POST request to the homepage');
+    res.send('hello brother');
 });
 
 // Respond to GET request on the /about route
